@@ -2,7 +2,7 @@
 
 **Publication (open access).**
 
-[**Federal Reserve Bank of Cleveland working paper..**](https://doi.org/10.26509/frbc-wp-202330)
+[**Federal Reserve Bank of Cleveland working paper.**](https://doi.org/10.26509/frbc-wp-202330)
 
 [**Online Appendix.**]
 
