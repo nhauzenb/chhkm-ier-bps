@@ -1,8 +1,8 @@
 ### Data and code package: T. Chernis, N. Hauzenberger, F. Huber, G. Koop & J. Mitchell (202x). Predictive Density Combination Using Bayesian Machine Learning, *International Economic Review*, forthcoming.
 
-**Publication (open access)**.
+[**Publication (open access)**.](https://doi.org/10.1111/iere.12759)
 
-[**Online Appendix**](https://www.dropbox.com/scl/fi/4h95f5roqgvajf86ufl45/CHHKM-IER-OnlineAppendix.pdf?rlkey=kjpxc7aionfgsfckrt6jydv1o&st=z3np70fp&dl=0).
+[**Online Appendix**.](https://www.dropbox.com/scl/fi/4h95f5roqgvajf86ufl45/CHHKM-IER-OnlineAppendix.pdf?rlkey=kjpxc7aionfgsfckrt6jydv1o&st=z3np70fp&dl=0)
 
 ### Data for the two empirical applications. 
 
